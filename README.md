@@ -10,7 +10,7 @@ conda install -c bioconda qiime
 Then on mac, transpose the table
 ### Analysis the sample type differences by PCoA with unifrac distance, result shows that 
 
-<img src="Figure/PCoA.png" width=400 height=400>
+<img src="Figure/PCoA.png" width=400 height=300>
 
 ### Differential abundance analysis
 - Step 1: the Kruskall-Wallis test analyzes all features, testing whether the values in different classes are differentially distributed.  
