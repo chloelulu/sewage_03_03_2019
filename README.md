@@ -19,4 +19,4 @@ Then on mac, transpose the table
 
 Result show that 
 
-<img src="Figure/LDA.png" width=400 height=800>
+<img src="Figure/LDA.png" width=700 height=800>
